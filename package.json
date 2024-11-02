@@ -1,0 +1,13 @@
+{
+  "name": "parcialfinal",
+  "version": "1.0.0",
+  "main": "inicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node inicio.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
